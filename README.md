@@ -1,7 +1,5 @@
 # Zenteiq_Assignment
 
-# Zenteiq Assignment
-
 This repository contains my submission for the ZenteiQ ML Engineer Assignment. The work explores training transformer models using MaxText across CPU, GPU, and TPU backends, along with comparisons between Dense (Qwen) and Mixture of Experts (DeepSeek) architectures. All experiments were performed using synthetic data and include configuration changes, training logs, metrics, and analysis.
 
 ## Repository Structure
